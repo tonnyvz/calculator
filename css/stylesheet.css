@@ -40,7 +40,7 @@ button{
 }
 
 .operator, .equal-sign{
-  background-color: lightblue;
+  background-color: orange;
 }
 
 button:hover{
@@ -48,5 +48,5 @@ button:hover{
 }
 
 .operator:hover, .equal-sign:hover{
-  background-color: darkblue;
+  background-color: darkorange;
 }
