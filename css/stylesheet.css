@@ -27,7 +27,7 @@
 
 button{
   height: 80px
-  background-color: gray;
+  background-color: lightblue;
   border: 1px solid black;
   font-size: 32px;
   color:#fff;
@@ -44,7 +44,7 @@ button{
 }
 
 button:hover{
-  background-color: darkgray;
+  background-color: blue;
 }
 
 .operator:hover, .equal-sign:hover{
